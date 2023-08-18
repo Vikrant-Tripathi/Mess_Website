@@ -1,0 +1,28 @@
+
+.messtable{
+  background-color: white;
+  margin:auto;
+  width:90%;
+}
+
+.menuBorder{
+  border: 2px solid rgb(49, 49, 49);
+}
+
+
+#menutable {
+  width: 100%;
+  border: 1px solid rgb(31, 29, 29);
+  border-collapse: collapse;
+  margin-right:50px;
+}
+#menutable td,
+#menutable th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 15px;
+}
+
+#menutable tr:nth-child(even) {
+  background-color: #dddddd;
+}

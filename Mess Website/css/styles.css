@@ -1,0 +1,126 @@
+#middle{
+    background-color: white;
+    margin: 5rem;
+    padding: 0.5rem;
+    padding-left: 1rem;
+    line-height: 1.2;
+}
+
+/* ------------------------------------------------------ */
+
+
+/* .about{
+    position: relative;
+    left:5rem;
+    bottom:1rem;
+    margin:0 1rem 0 2rem;
+} */
+
+ /* .home{
+    height: 1rem;
+    width: 1rem;
+    margin:0 1rem 0 2rem;
+}  */
+
+ /* .contact{
+    position: relative;
+    left:13rem;
+    bottom:2.1rem;
+    margin:0 1rem 0 0.5rem;
+}  */
+
+/* .white{
+    color:#FFF; text-decoration:none; font-weight:normal;
+} */
+
+/* .mail{
+    color:#06283D;
+} */
+
+.instagram{
+    height: 2rem;
+    width:2rem;
+}
+
+.twitter{
+    height: 2rem;
+    width:2rem;
+}
+
+.facebok{
+    height: 2rem;
+    width:2rem;
+}
+
+.youtube{
+    height: 2rem;
+    width:2rem;
+}
+
+.soical{
+    margin: 200px;
+}
+
+
+/* -------------------------------------------------------- */
+
+body{
+    margin: 0;
+}
+
+/* div{
+    border-color: brown;
+    border-bottom: 10rem;
+
+} */
+
+/* a{
+    text-decoration: none;
+    /* font-size: 1.2rem; 
+} */
+
+/* a:hover{
+    color: #FFA500;
+} */
+
+/* hr{
+    border: 3px solid black;
+    border-radius: 2px;
+} */
+
+/* body{
+    background-color: #F4F6F8;
+} */
+
+h1{
+    /* margin-bottom: 2rem; */
+    font-family: "Libre Baskerville", serif;
+    height: 2rem;
+}
+
+.iitgoalogo{
+    height: 15%;
+    width: 15%;
+}
+
+.Z{
+    background-color: black;
+}
+
+h4{
+    color:white;
+    margin: 2rem;
+}
+
+h3{
+    color:white;
+}
+
+#last{
+    padding-top: 10rem;
+    padding-left: 20rem;
+}
+
+span{
+    margin-left: 4rem ;
+}
